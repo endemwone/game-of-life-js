@@ -1,0 +1,26 @@
+.container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+hr {
+    clear: both;
+}
+
+#buttons {
+    padding-bottom: 1rem;
+}
+
+button {
+    margin: 0 1rem 0 1rem;
+}
+
+canvas {
+    padding: 0.1rem;
+    margin: auto;
+    display: block;
+    width: 800px;
+    border: 2px solid black;
+}
